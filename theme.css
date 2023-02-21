@@ -14,9 +14,11 @@ html, body{
     /*background-position: 50% 60%;*/
     background-attachment: scroll;
     background-size: cover;
-    height: 40%;
+    height: auto;
+    max-width: 100%;
+    width: auto;
     margin: 0;
-    padding-top: 40%;
+    padding-top: 50%;
 }
 .heading {
     color: #ffffff;
