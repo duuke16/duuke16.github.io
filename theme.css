@@ -14,9 +14,9 @@ html, body{
     background-position: 50% 60%;
     background-attachment: scroll;
     background-size: cover;
-    height: 40vh;
+    height: 40%;
     margin: 0;
-    padding-top: 60vh;
+    padding-top: 40%;
 }
 .heading {
     color: #ffffff;
@@ -80,6 +80,9 @@ html, body{
 }
 .resort-image{
     width: 100%
+}
+.markus-image{
+    width: 50%
 }
 
 @media only screen and (max-width: 600px) {
