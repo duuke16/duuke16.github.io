@@ -13,6 +13,7 @@ html, body{
     background-repeat: no-repeat;
     /*background-position: 50% 60%;*/
     background-attachment: scroll;
+    background-position: center;
     background-size: cover;
     height: auto;
     max-width: 100%;
