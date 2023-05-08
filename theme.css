@@ -90,6 +90,9 @@ html, body{
 .julia-image{
     width: 60%
 }
+.ablauf-image{
+    width: 100%
+}
 
 @media only screen and (max-width: 600px) {
     .heading {
